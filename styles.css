@@ -3,6 +3,8 @@
     margin: 0;
     padding: 0;
     text-decoration: none;
+    font-size: 16px;
+    list-style: none;
 }
 
 body {
@@ -12,3 +14,61 @@ body {
 
 
 /* HEADER */
+#header {
+    background-color: white;
+    border: 3px solid red;
+    padding: 0.6em;
+}
+
+#logo {
+    font-size: 20px;
+    font-weight: 540;
+    font-family: sans-serif;
+    color: brown;
+    padding-left: 20px;
+    border: 3px solid purple;
+}
+
+#lupa-header {
+    float: right;
+    border: 3px solid black;
+    display: inline-block;
+}
+
+
+/* MAIN */
+
+#nav-first-section{
+    display: block;
+    border: 3px solid purple;
+    text-align: center;
+    margin-top: 11.68em;
+}
+
+.list-first-section{
+    margin: -2px;
+    font-size: 16px;
+    color: antiquewhite;
+    background-color: black;
+    padding: 10px 5.48em;
+    display: inline;
+    
+}
+
+#borda-teste {
+    border: 2px solid pink;
+    background-image: url("imagens/london.jpg");
+    background-size: cover;
+    height: 600px;
+}
+
+#background-color {
+    background-color: aliceblue;
+    padding-bottom: 95px;
+    margin: 5px 17.62%;
+    /* border: 3px solid yellow; */
+}
+
+#primeiro {
+    background-color: brown;
+}
