@@ -1,0 +1,14 @@
+/* CSS RESET E CONFIGURAÇÕES DO BODY */
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+body {
+    font-family: 'Raleway', sans-serif;
+    color: black;
+}
+
+
+/* HEADER */
